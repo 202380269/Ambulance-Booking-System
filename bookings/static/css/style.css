@@ -22,3 +22,28 @@
     color: #e53935;
     text-decoration: none;
 }
+
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+h1 {
+    color: darkred;
+}
+
+a {
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 8px;
+    background: red;
+    color: white;
+    text-decoration: none;
+}
+
+button {
+    padding: 8px;
+    background: green;
+    color: white;
+    border: none;
+}
